@@ -1,0 +1,10 @@
+# PagePersonelle
+
+Choix du serveur d'hébergement:
+
+J'ai choisi GitHub Pages pour héberger mon projet pour les raisons suivantes :
+
+-Gestion des versions avec GitHub Desktop : Permet de valider (commit) des changements et de les annuler au besoin. Cela me donne l'option d'expérimenter et de retourner en arrière en cas de problèmes.
+-Accessibilité : GitHub Pages me permet d'accéder à mon projet depuis plusieurs appareils (ordinateur personel ou de bureau).
+-Intégration transparente : L'hébergement via GitHub Pages s'intègre directement à mon dépôt GitHub, les mises à jour sont reflétées en temps réel.
+-Fiable et économique : C'est gratuit et fiable, ce qui en fait une excellente solution pour des projets personnels et l'hébergement de sites statiques.
